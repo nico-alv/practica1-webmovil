@@ -68,10 +68,14 @@ body {
     height: auto;
     overflow: hidden;
     margin: 0 auto;
+
+    
+    
 }
 
 .imagenPerfil img {
     border-radius: 50%;
+    border: 5px solid whitesmoke;
 }
 
 
